@@ -123,7 +123,7 @@ export default function App() {
           </div>
           <div>
             <h1 className="text-xl font-bold tracking-widest uppercase">J.A.R.V.I.S.</h1>
-            <p className="text-[10px] font-mono opacity-60 uppercase tracking-tighter">System Version 4.2.0 // Active</p>
+            <p className="text-[10px] font-mono opacity-60 uppercase tracking-tighter">SYSTEM // Active</p>
           </div>
         </div>
         <div className="flex gap-6 items-center">
@@ -294,7 +294,7 @@ export default function App() {
             <div className="space-y-6">
               <div className="flex items-center justify-between">
                 <div className="text-[10px] uppercase opacity-60">Location</div>
-                <div className="text-xs">Malibu, CA</div>
+                <div className="text-xs">India, Lucknow</div>
               </div>
               <div className="flex items-center justify-between">
                 <div className="text-[10px] uppercase opacity-60">Weather</div>
@@ -346,7 +346,7 @@ export default function App() {
         </div>
         <div className="flex gap-4 opacity-60">
           <span>{new Date().toLocaleDateString()}</span>
-          <span>© Stark Industries</span>
+          <span>⎊ RISHABH</span>
         </div>
       </footer>
 
