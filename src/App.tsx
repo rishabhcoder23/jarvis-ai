@@ -202,8 +202,8 @@ export default function App() {
           <div className="glass-panel p-4 h-32 flex items-center justify-center relative overflow-hidden">
             <div className="absolute inset-0 opacity-10 bg-[radial-gradient(circle_at_center,_var(--color-jarvis-blue)_0%,_transparent_70%)]" />
             <div className="text-center">
-              <div className="text-[10px] uppercase opacity-60 mb-1">Arc Reactor</div>
-              <div className="text-lg font-bold tracking-widest">STABLE</div>
+              <div className="text-[10px] uppercase opacity-60 mb-1">Made By</div>
+              <div className="text-lg font-bold tracking-widest">RISHABH ⎊</div>
             </div>
           </div>
         </aside>
